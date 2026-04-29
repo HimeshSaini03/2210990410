@@ -10,6 +10,11 @@
 Designed for operators who require plausible deniability and zero-trust data custody, OBSIDYN masks its existence, defends against unauthorized forensic analysis, and ensures that your critical intelligence remains exclusively under your control.
 
 ---
+Name          Roll No
+Himesh Saini  2210990410
+Krihtik Saini 2210990522
+Hirdesh Mittal 2210990412
+
 
 ## 💻 System Requirements
 
