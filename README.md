@@ -109,4 +109,4 @@ For advanced operators, OBSIDYN employs a Zero-Trust internal architecture:
 3. **Environment Stability**: Do not modify the `data/vaults` directory manually using Windows Explorer. Doing so may corrupt the AES-GCM nonces and result in permanent data loss.
 
 ---
-*OBSIDYN v2.0.2 - Securing the Unseen.*
+*OBSIDYN v2.0.8 - Securing the Unseen.*
